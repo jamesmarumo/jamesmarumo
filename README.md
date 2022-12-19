@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jamesmarumo
-- 👀 I’m interested in fullstack development
+- 👀 I’m interested in becoming a fullstack developer
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React and JavaScript projects
 - 📫 My Email is james.marumo@gmail.com
